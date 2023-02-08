@@ -1,0 +1,114 @@
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "8b77da89189ae63d036d836b22e0356f5517e223"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[NRLMSIS.download]]
+    sha256 = "ace12168e0a6577782eedb87c3317074adcb92df9e3c28b55a7cbf2f7f84190a"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "d4cf5fdbc17b19f7b7b1e399edcc659effff3df3"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[NRLMSIS.download]]
+    sha256 = "9cff234a6859f466b4a737b736934031f57e465bd3fb5538d627a149072c38f8"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "38efd39b9320805a3c05a251a5fe522a022ba91a"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[NRLMSIS.download]]
+    sha256 = "f96e9d419c843cfe308446d92299871da47aad247c54928ba36e6d586ead8942"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "71cd0d3036aac501dc8931c4cddbb4bd3f0bb01d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "4bbc20af99422a1d0a2a6cf8e58c8fab61cc797724c46d320a4c32bb4c2fbedc"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "fc0abacc1f59c576d88942373499039a8f550c54"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "de0e475350c2a12f893f9508b2f309534999a4aa67c29c1f12e8d8a4f00c6440"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "54403343fd6de5ad91583cc8e6b78212fe03d1cb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "91429a51ccbf0d6be32d87da95166db07a4cac636eac3308655ae38d4be83eaa"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "b3cb286931775e9655a070fb7b5a4f1b5a5cedb0"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "9f08b0a6fae004306a90051722646fb1d7aba2c10a5c345eb8f25fc21865333d"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "0f06881fc36538f989c281c113ef1524dcd9bd0e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "f2a0a6c4652cbba0b793849e38e8baf979bc7a4662c22badbbbac008e0f7e79c"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "68cf904fd9c39761fab47c6a5036fc514d80c55c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NRLMSIS.download]]
+    sha256 = "05349eda52f2fd24814727f190bb103ae81b4c0ee5fe46bea6b8fa63611a104f"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "4ff647ce22fb9fcefac51d0b644e6654cf8aa224"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[NRLMSIS.download]]
+    sha256 = "dedd4b1cdc0b2f0ba9db73beb188c3acac63ce698be4696bd863b46a8983d049"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "acd7381240d45c068245c673ecb1a890f5efc52e"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[NRLMSIS.download]]
+    sha256 = "0f5c6665690cd471a7e73db4e0e8fe5e9fe91b9a23b3dfc2d36fa55929d78972"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[NRLMSIS]]
+arch = "x86_64"
+git-tree-sha1 = "043e1c055180f58640f702d1f6811e0c2987f1e0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[NRLMSIS.download]]
+    sha256 = "2164708ca12da74e7dc4f00f471993538316b3da7cd66aec3a4ad8c806498102"
+    url = "https://github.com/JuliaBinaryWrappers/NRLMSIS_jll.jl/releases/download/NRLMSIS-v2.1.0+0/NRLMSIS.v2.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
